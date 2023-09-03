@@ -1,47 +1,33 @@
+# LightEdit—Panel Kit For sdf Framework
 
-# Project SDF
-
-Project sdf is a project development framework created for php enthusiasts.The framework itself is compact, easy to maintain and improvable.
+LightEdit is a ready dashboard kit with bootstrap 5 created for sdf Framework
 
 
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/devsimsek/project-sdf)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/devsimsek/lightedit)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://devsimsek.mit-license.org)
 
-## Features
-
-- MVC Pattern
-- Namespaces Support
-- Extendable
-- Compact
-- Secure
-- Easy to Integrate
-- Optimized
-- Built-in Libraries (Database, Sessions...)
-
-
-## Tech Stack
-
-**Php:** 8.0 - Latest
 ## Installation
 
-Install source by using git;
+Use the [git cli](https://github.com/devsimsek/lightedit) to install LightEdit.
+
 ```bash
-  git clone https://github.com/devsimsek/project-sdf.git
+git clone https://github.com/devsimsek/lightedit
+# or
+gh repo clone devsimsek/lightedit
 ```
-## Feedback
-
-If you have any feedback, please reach out to me at devsimsek@outlook.com
-
 
 ## Contributing
 
-Contributions are always welcome!
-
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
 
 ## Authors
 
 - [@devsimsek](https://www.github.com/devsimsek)
 
+## License
+
+[MIT](https://devsimsek.mit-license.org) | [smskSoft LCS (Soon)](https://lcs.smsk.software/cert/lightedit)
